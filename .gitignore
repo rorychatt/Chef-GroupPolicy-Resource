@@ -21,4 +21,4 @@ Berksfile.lock
 Policyfile.lock.json
 
 # Intellij
-.idea
+.idea/
